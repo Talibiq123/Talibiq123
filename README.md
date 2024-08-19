@@ -12,7 +12,7 @@ I'm a fresher with a passion for web development. I focus on JavaScript, React, 
 - Experimenting with new recipes in the kitchen
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mohd-talib-688539172/
+- [LinkedIn](https://www.linkedin.com/in/mohd-talib-688539172/)
 - [Twitter](https://twitter.com/Talib__Saeed)
 - [LeetCode](https://leetcode.com/u/Talib_Saeed/)
 
