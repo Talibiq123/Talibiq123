@@ -14,6 +14,9 @@ I'm a fresher with a passion for web development. I focus on JavaScript, React, 
 ## 📜 Certifications
 - [HackerRank Certificate](https://www.hackerrank.com/certificates/c3dbc57b5679)
 
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talibiq123&layout=compact)](https://github.com/Talibiq123?tab=repositories)
+
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mohd-talib-688539172/)
 - [Twitter](https://twitter.com/Talib__Saeed)
